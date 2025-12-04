@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\formstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\cleanify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\cleanify\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\cleanify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\formpengeluaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formpengeluaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\cleanify\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\cleanify\\formpengeluaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formpengeluaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\form3.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form3.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\hp\\downloads\\cleanify(3)\\cleanify(2)\\cleanify\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 448,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formstok.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formstok.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Formstok.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formstok.cs [Design]",
+              "RelativeToolTip": "Cleanify\\Formstok.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:02:09.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form1.Designer.cs",
+              "RelativeToolTip": "Cleanify\\Form1.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T04:53:35.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\koneksi.cs",
+              "RelativeDocumentMoniker": "Cleanify\\koneksi.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\koneksi.cs",
+              "RelativeToolTip": "Cleanify\\koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T04:18:03.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form3.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form3.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form3.cs [Design]",
+              "RelativeToolTip": "Cleanify\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:43:54.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form3.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form3.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form3.cs",
+              "RelativeToolTip": "Cleanify\\Form3.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAAPwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:00:25.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form3.Designer.cs",
+              "RelativeToolTip": "Cleanify\\Form3.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:35:37.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form3.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form3.resx",
+              "RelativeDocumentMoniker": "Cleanify\\Form3.resx",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form3.resx",
+              "RelativeToolTip": "Cleanify\\Form3.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-03T00:35:35.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form4.Designer.cs",
+              "RelativeToolTip": "Cleanify\\Form4.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAABQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:03:32.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form2.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form2.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form2.cs [Design]",
+              "RelativeToolTip": "Cleanify\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:25:14.822Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form2.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form2.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form2.cs",
+              "RelativeToolTip": "Cleanify\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:48:56.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form4.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form4.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form4.cs [Design]",
+              "RelativeToolTip": "Cleanify\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:30:18.853Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Formpemasukan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpemasukan.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Formpemasukan.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpemasukan.cs [Design]",
+              "RelativeToolTip": "Cleanify\\Formpemasukan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:52:44.395Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Formpengeluaran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpengeluaran.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Formpengeluaran.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpengeluaran.cs [Design]",
+              "RelativeToolTip": "Cleanify\\Formpengeluaran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:00:25.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form1.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form1.cs [Design]",
+              "RelativeToolTip": "Cleanify\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:36:23.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Formpengeluaran.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpengeluaran.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Formpengeluaran.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpengeluaran.cs",
+              "RelativeToolTip": "Cleanify\\Formpengeluaran.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T02:03:47.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Formpemasukan.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpemasukan.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Formpemasukan.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpemasukan.cs",
+              "RelativeToolTip": "Cleanify\\Formpemasukan.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:57:36.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form4.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form4.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form4.cs",
+              "RelativeToolTip": "Cleanify\\Form4.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T01:33:03.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Program.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Program.cs",
+              "RelativeToolTip": "Cleanify\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:13:36.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form1.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form1.cs",
+              "RelativeToolTip": "Cleanify\\Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:32:53.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
