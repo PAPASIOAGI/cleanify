@@ -1,25 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "/t58OS4DLJ0=",
+  "dgSpecHash": "Ng2w7VAfeE0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Cleanify.csproj",
+  "projectFilePath": "C:\\Users\\lenov\\OneDrive\\Documents\\KEPERLUAN PROJEK\\cleanify\\Cleanify(2)\\Cleanify\\Cleanify.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\faigo\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
-    "C:\\Users\\faigo\\.nuget\\packages\\materialskin\\0.2.1\\materialskin.0.2.1.nupkg.sha512",
-    "C:\\Users\\faigo\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
-    "C:\\Users\\faigo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\faigo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
-    "C:\\Users\\faigo\\.nuget\\packages\\npgsql\\10.0.0\\npgsql.10.0.0.nupkg.sha512",
-    "C:\\Users\\faigo\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+    "C:\\Users\\lenov\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\materialskin\\0.2.1\\materialskin.0.2.1.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\npgsql\\10.0.0\\npgsql.10.0.0.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'MaterialSkin 0.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Cleanify.csproj",
+      "projectPath": "C:\\Users\\lenov\\OneDrive\\Documents\\KEPERLUAN PROJEK\\cleanify\\Cleanify(2)\\Cleanify\\Cleanify.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Cleanify.csproj",
+      "filePath": "C:\\Users\\lenov\\OneDrive\\Documents\\KEPERLUAN PROJEK\\cleanify\\Cleanify(2)\\Cleanify\\Cleanify.csproj",
       "libraryId": "MaterialSkin",
       "targetGraphs": [
         "net10.0-windows7.0"
