@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cleanify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2690b09f13015b515945c6913bf18f426e263ec3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cleanify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cleanify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

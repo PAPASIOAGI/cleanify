@@ -118,31 +118,52 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="data-report (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\data-report (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="money-income1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\money-income1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="file-csv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\file-csv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="money-income" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\money-income.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="receipt (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\receipt (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="data-report (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\data-report (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logocleanify" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logocleanify.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="data-report" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\data-report.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="expense-bill (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\expense-bill (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="file-csv (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\file-csv (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="receipt (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\receipt (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="money-income1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\money-income1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="warehouse-alt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\warehouse-alt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="file-pdf (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\file-pdf (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="file-import" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\file-import.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="angle-double-small-left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\angle-double-small-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="expense-bill (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\expense-bill (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="home" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="logocleanify" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logocleanify.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="file-pdf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\file-pdf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="file-import (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\file-import (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

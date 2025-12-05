@@ -63,6 +63,16 @@ namespace Cleanify.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap angle_double_small_left {
+            get {
+                object obj = ResourceManager.GetObject("angle-double-small-left", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap data_report {
             get {
                 object obj = ResourceManager.GetObject("data-report", resourceCulture);
@@ -86,6 +96,66 @@ namespace Cleanify.Properties {
         internal static System.Drawing.Bitmap expense_bill__1_ {
             get {
                 object obj = ResourceManager.GetObject("expense-bill (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap file_csv {
+            get {
+                object obj = ResourceManager.GetObject("file-csv", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap file_csv__1_ {
+            get {
+                object obj = ResourceManager.GetObject("file-csv (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap file_import {
+            get {
+                object obj = ResourceManager.GetObject("file-import", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap file_import__1_ {
+            get {
+                object obj = ResourceManager.GetObject("file-import (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap file_pdf {
+            get {
+                object obj = ResourceManager.GetObject("file-pdf", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap file_pdf__1_ {
+            get {
+                object obj = ResourceManager.GetObject("file-pdf (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

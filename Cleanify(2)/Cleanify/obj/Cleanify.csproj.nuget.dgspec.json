@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Cleanify.csproj": {}
+    "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Cleanify.csproj": {}
   },
   "projects": {
-    "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Cleanify.csproj": {
+    "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Cleanify.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Cleanify.csproj",
+        "projectUniqueName": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Cleanify.csproj",
         "projectName": "Cleanify",
-        "projectPath": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Cleanify.csproj",
+        "projectPath": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Cleanify.csproj",
         "packagesPath": "C:\\Users\\faigo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\obj\\",
+        "outputPath": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

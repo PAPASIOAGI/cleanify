@@ -49,5 +49,12 @@ namespace Cleanify
         {
 
         }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.Show();
+            this.Hide();
+        }
     }
 }

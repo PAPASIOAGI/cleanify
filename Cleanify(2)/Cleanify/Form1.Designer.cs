@@ -29,15 +29,17 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             pictureBox1 = new PictureBox();
             label1 = new Label();
             label2 = new Label();
             txtnama = new TextBox();
             txtpassword = new TextBox();
             label3 = new Label();
-            btnlogin = new Button();
             panel1 = new Panel();
             panel2 = new Panel();
+            guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
@@ -70,7 +72,7 @@
             label2.BackColor = Color.White;
             label2.Font = new Font("Georgia", 9F);
             label2.ForeColor = Color.FromArgb(10, 74, 122);
-            label2.Location = new Point(7, 5);
+            label2.Location = new Point(24, 11);
             label2.Name = "label2";
             label2.Size = new Size(43, 15);
             label2.TabIndex = 2;
@@ -103,25 +105,12 @@
             label3.BackColor = Color.White;
             label3.Font = new Font("Georgia", 9F);
             label3.ForeColor = Color.FromArgb(10, 74, 122);
-            label3.Location = new Point(7, 6);
+            label3.Location = new Point(24, 9);
             label3.Name = "label3";
             label3.Size = new Size(60, 15);
             label3.TabIndex = 2;
             label3.Text = "Password";
             label3.Click += label2_Click;
-            // 
-            // btnlogin
-            // 
-            btnlogin.BackColor = Color.White;
-            btnlogin.Font = new Font("Georgia", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnlogin.ForeColor = Color.FromArgb(10, 74, 122);
-            btnlogin.Location = new Point(141, 456);
-            btnlogin.Name = "btnlogin";
-            btnlogin.Size = new Size(79, 29);
-            btnlogin.TabIndex = 4;
-            btnlogin.Text = "Login";
-            btnlogin.UseVisualStyleBackColor = false;
-            btnlogin.Click += btnlogin_Click;
             // 
             // panel1
             // 
@@ -145,13 +134,32 @@
             panel2.Size = new Size(309, 43);
             panel2.TabIndex = 5;
             // 
+            // guna2Button1
+            // 
+            guna2Button1.BorderColor = Color.FromArgb(10, 74, 122);
+            guna2Button1.BorderRadius = 16;
+            guna2Button1.CustomizableEdges = customizableEdges1;
+            guna2Button1.DisabledState.BorderColor = Color.DarkGray;
+            guna2Button1.DisabledState.CustomBorderColor = Color.DarkGray;
+            guna2Button1.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
+            guna2Button1.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
+            guna2Button1.FillColor = Color.White;
+            guna2Button1.Font = new Font("Segoe UI", 9F);
+            guna2Button1.ForeColor = Color.FromArgb(10, 74, 122);
+            guna2Button1.Location = new Point(128, 428);
+            guna2Button1.Name = "guna2Button1";
+            guna2Button1.ShadowDecoration.CustomizableEdges = customizableEdges2;
+            guna2Button1.Size = new Size(102, 45);
+            guna2Button1.TabIndex = 6;
+            guna2Button1.Text = "LOGIN";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(10, 74, 122);
             ClientSize = new Size(374, 530);
-            Controls.Add(btnlogin);
+            Controls.Add(guna2Button1);
             Controls.Add(label1);
             Controls.Add(pictureBox1);
             Controls.Add(panel2);
@@ -177,11 +185,11 @@
         private TextBox txtnama;
         private TextBox txtpassword;
         private Label label3;
-        private Button btnlogin;
         private Panel panel1;
         private Panel panel2;
         private Panel panel3;
         private TextBox txtid;
         private Label label4;
+        private Guna.UI2.WinForms.Guna2Button guna2Button1;
     }
 }

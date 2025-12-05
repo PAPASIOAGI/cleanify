@@ -1,48 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\",
+  "WorkspaceRootPath": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\cleanify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\cleanify\\formpengeluaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formpengeluaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\faigo\\desktop\\coding s1\\cleanify\\cleanify(2)\\cleanify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\faigo\\downloads\\cleanify(3) (1)\\cleanify(3)\\cleanify(2)\\cleanify\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\faigo\\desktop\\coding s1\\cleanify\\cleanify(2)\\cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\cleanify\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\faigo\\desktop\\coding s1\\cleanify\\cleanify(2)\\cleanify\\formstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formstok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\faigo\\desktop\\coding s1\\cleanify\\cleanify(2)\\cleanify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\faigo\\desktop\\coding s1\\cleanify\\cleanify(2)\\cleanify\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\cleanify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\faigo\\desktop\\coding s1\\cleanify\\cleanify(2)\\cleanify\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\faigo\\downloads\\cleanify(3) (1)\\cleanify(3)\\cleanify(2)\\cleanify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\faigo\\desktop\\coding s1\\cleanify\\cleanify(2)\\cleanify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\cleanify\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\cleanify\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\cleanify\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\cleanify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\cleanify\\formpengeluaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formpengeluaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|c:\\users\\faigo\\downloads\\cleanify(3) (1)\\cleanify(3)\\cleanify(2)\\cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E73CA6E0-4E5B-5725-B24F-C3318D803644}|Cleanify\\Cleanify.csproj|solutionrelative:cleanify\\formpemasukan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,7 +64,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,11 +72,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form2.cs",
               "RelativeDocumentMoniker": "Cleanify\\Form2.cs",
-              "ToolTip": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form2.cs [Design]",
               "RelativeToolTip": "Cleanify\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T10:05:42.345Z",
@@ -73,41 +85,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAkwJAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-12-04T07:35:23.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "Cleanify\\Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Properties\\Resources.resx",
-              "RelativeToolTip": "Cleanify\\Properties\\Resources.resx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-04T07:34:32.715Z",
-              "EditorCaption": ""
+              "DocumentIndex": 0,
+              "Title": "Formpengeluaran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Formpengeluaran.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Formpengeluaran.cs",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Formpengeluaran.cs [Design]",
+              "RelativeToolTip": "Cleanify\\Formpengeluaran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:45:10.719Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAG8NAAAAAAAAAAAwwIINAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-12-04T07:25:53.123Z",
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form4.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form4.cs",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form4.cs [Design]",
+              "RelativeToolTip": "Cleanify\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:17:06.098Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form4.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form4.cs",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form4.cs",
+              "RelativeToolTip": "Cleanify\\Form4.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T01:23:13.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Formstok.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Formstok.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Formstok.cs",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Formstok.cs [Design]",
+              "RelativeToolTip": "Cleanify\\Formstok.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T01:09:21.298Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form1.cs",
+              "RelativeDocumentMoniker": "Cleanify\\Form1.cs",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form1.cs",
+              "RelativeToolTip": "Cleanify\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T00:44:28.179Z",
               "EditorCaption": ""
             },
             {
@@ -140,11 +176,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAkwJAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-04T07:35:23.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Cleanify\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Properties\\Resources.resx",
+              "RelativeToolTip": "Cleanify\\Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-04T07:34:32.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAG8NAAAAAAAAAAAwwIINAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-04T07:25:53.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Formpemasukan.cs",
-              "DocumentMoniker": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpemasukan.cs",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Formpemasukan.cs",
               "RelativeDocumentMoniker": "Cleanify\\Formpemasukan.cs",
-              "ToolTip": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpemasukan.cs",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Formpemasukan.cs",
               "RelativeToolTip": "Cleanify\\Formpemasukan.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,36 +228,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Formpengeluaran.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpengeluaran.cs",
-              "RelativeDocumentMoniker": "Cleanify\\Formpengeluaran.cs",
-              "ToolTip": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpengeluaran.cs [Design]",
-              "RelativeToolTip": "Cleanify\\Formpengeluaran.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:45:10.719Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form2.cs",
               "RelativeDocumentMoniker": "Cleanify\\Form2.cs",
-              "ToolTip": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form2.cs",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form2.cs",
               "RelativeToolTip": "Cleanify\\Form2.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T10:44:58.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Formpemasukan.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpemasukan.cs",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Formpemasukan.cs",
               "RelativeDocumentMoniker": "Cleanify\\Formpemasukan.cs",
-              "ToolTip": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Formpemasukan.cs [Design]",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Formpemasukan.cs [Design]",
               "RelativeToolTip": "Cleanify\\Formpemasukan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T10:21:19.881Z",
@@ -190,23 +253,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form4.cs",
-              "RelativeDocumentMoniker": "Cleanify\\Form4.cs",
-              "ToolTip": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form4.cs [Design]",
-              "RelativeToolTip": "Cleanify\\Form4.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:17:06.098Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form1.cs",
               "RelativeDocumentMoniker": "Cleanify\\Form1.cs",
-              "ToolTip": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form1.cs [Design]",
               "RelativeToolTip": "Cleanify\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T10:16:14.536Z",
@@ -214,11 +265,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form3.cs",
               "RelativeDocumentMoniker": "Cleanify\\Form3.cs",
-              "ToolTip": "C:\\Users\\faigo\\Downloads\\Cleanify(3) (1)\\Cleanify(3)\\Cleanify(2)\\Cleanify\\Form3.cs [Design]",
+              "ToolTip": "C:\\Users\\faigo\\Desktop\\coding s1\\cleanify\\Cleanify(2)\\Cleanify\\Form3.cs [Design]",
               "RelativeToolTip": "Cleanify\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T10:13:55.65Z",
